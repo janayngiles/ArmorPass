@@ -10,9 +10,9 @@ NetBeans IDE recommended
 - Click "CODE (green button) for drop down
 - Select "Download ZIP"
 - ArmorPass downloads as a txt file. 
-Load into compatible complier of choice
-Start/Compile
-Have Fun!
+- Load into compatible complier of choice
+- Start/Compile
+- Have Fun!
 
 ![ArmorPass_Form](https://user-images.githubusercontent.com/115842785/200479238-796dcad2-3391-468d-a0ff-b7ae69de1a56.png)
 ![ArmorPass_generate](https://user-images.githubusercontent.com/115842785/200479246-3fccbecd-0549-4f07-ae13-2b4ac10f8e0c.png)
