@@ -1,6 +1,7 @@
 # ArmorPass
 
-README File for ArmoPass in Java. Armos Passis a user password application. It is designed to accept the users password and generate a new stronger password for them. 
+
+README File for ArmoPass in Java. Armor Pass is a user password application. It is designed to accept the users password and generate a new stronger password for them. 
 
 This project was intended to help me gain experience in Java and create a practical real-world project. 
 
